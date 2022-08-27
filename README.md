@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achuthanandGit
+- 👋 Hi, I’m Achuthanand Vasudevan
 - 👀 I’m interested in learning new tools
 - 🌱 I’m currently learning Spring framework deeply
 - 📫 How to reach me https://www.linkedin.com/in/achuthanand-vasudevan/
